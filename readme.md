@@ -4,8 +4,19 @@ The effleurage technique is a non-pharmacological method that has been proven to
 
 # Schematic & Component
 ![alt text](https://github.com/AldinWil10/Myoware-Muscle/blob/main/Rangkaian.jpg?raw=true)
-- Arduino UNO                          - LCD 16 x 2
-- ESP-01                               - Potensiometer
-- Myoware Muscle Sensor                - SPST Switch
-- Motor Driver L298N                   - DC Motor
-- Step Up Module DC-XL 6009            - Blynk App
+- Arduino UNO 
+- ESP-01                               
+- Myoware Muscle Sensor         
+- Motor Driver L298N                   
+- Step Up Module DC-XL 6009
+- LCD 16 x 2
+- Potensiometer
+- SPST Switch
+- DC Motor
+- Blynk App
+
+# When Muscle is relax
+![alt text]([https://github.com/AldinWil10/Myoware-Muscle/blob/main/Rangkaian.jpg](https://github.com/AldinWil10/Myoware-Muscle/blob/main/Screenshot%202022-05-19%20102540.png)?raw=true)
+
+# When Muscle is contraction
+![alt text](https://github.com/AldinWil10/Myoware-Muscle/blob/main/Screenshot%202022-05-19%20102556.png?raw=true)
