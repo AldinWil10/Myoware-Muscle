@@ -16,7 +16,7 @@ The effleurage technique is a non-pharmacological method that has been proven to
 - Blynk App
 
 # When Muscle is relax
-![alt text]([https://github.com/AldinWil10/Myoware-Muscle/blob/main/Rangkaian.jpg](https://github.com/AldinWil10/Myoware-Muscle/blob/main/Screenshot%202022-05-19%20102540.png)?raw=true)
+![alt text](https://github.com/AldinWil10/Myoware-Muscle/blob/main/Screenshot%202022-05-19%20102540.png?raw=true)
 
 # When Muscle is contraction
 ![alt text](https://github.com/AldinWil10/Myoware-Muscle/blob/main/Screenshot%202022-05-19%20102556.png?raw=true)
